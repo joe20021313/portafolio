@@ -3,9 +3,4 @@
 @tailwind utilities;
 
 /* ignore this file not used*/
-.body {
-    margin: 0;
-    box-sizing: border-box;
-    background-color: #2b6daf;
-}
 
